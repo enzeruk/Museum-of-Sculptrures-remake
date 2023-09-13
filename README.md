@@ -8,8 +8,8 @@ Each sculpture has its own information which later the Player shall utilize to g
 
 
 ### New changes
-- [ ] Add a Main Menu
-- [ ] Add a Pause Menu
+- [x] Add a Main Menu
+- [x] Add a Pause Menu
 - [x] Add Music & SFX
 - [x] Separate the main rooms of the Museum 
 - [ ] Build the project with URP Pipeline
